@@ -1,16 +1,10 @@
-\* [HTTPS协议](#https协议)
-
-   \* [<a href="http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html" rel="nofollow">图解SSL/TLS协议</a>](#图解ssltls协议)
-
-​     \* [一、SSL协议的握手过程](#一ssl协议的握手过程)
-
-​     \* [二、私钥的作用](#二私钥的作用)
-
-​     \* [三、DH算法的握手阶段](#三dh算法的握手阶段)
-
-​     \* [四、session的恢复](#四session的恢复)
-
-  \* [推荐资源](#推荐资源)
+- [HTTPS协议](#https协议)
+	- [<a href="http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html" rel="nofollow">图解SSL/TLS协议</a>](#图解ssltls协议)
+		- [一、SSL协议的握手过程](#一ssl协议的握手过程)
+		- [二、私钥的作用](#二私钥的作用)
+		- [三、DH算法的握手阶段](#三dh算法的握手阶段)
+		- [四、session的恢复](#四session的恢复)
+- [推荐资源](#推荐资源)
 
 # HTTPS协议
 
