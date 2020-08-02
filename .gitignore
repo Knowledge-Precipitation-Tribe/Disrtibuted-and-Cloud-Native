@@ -1,0 +1,3 @@
+*.orig*
+*.toc*
+.DS_Store
